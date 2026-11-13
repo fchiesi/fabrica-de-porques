@@ -1,0 +1,395 @@
+{
+ "total": 168.202,
+ "cenas": [
+  {
+   "nome": "gancho",
+   "ini": 0.0,
+   "fim": 6.192,
+   "D": 6.192,
+   "cues": [
+    [
+     0.5,
+     5.492
+    ]
+   ]
+  },
+  {
+   "nome": "abertura",
+   "ini": 6.192,
+   "fim": 19.66,
+   "D": 13.468,
+   "cues": [
+    [
+     2.0999999999999996,
+     8.222
+    ],
+    [
+     8.671999999999999,
+     12.768
+    ]
+   ]
+  },
+  {
+   "nome": "mito",
+   "ini": 19.66,
+   "fim": 37.402,
+   "D": 17.742,
+   "cues": [
+    [
+     0.5,
+     4.34
+    ],
+    [
+     4.789999999999999,
+     11.989999999999998
+    ],
+    [
+     12.440000000000001,
+     17.041999999999998
+    ]
+   ]
+  },
+  {
+   "nome": "prisma",
+   "ini": 37.402,
+   "fim": 53.28000000000001,
+   "D": 15.878000000000007,
+   "cues": [
+    [
+     0.5,
+     6.334000000000003
+    ],
+    [
+     6.784000000000006,
+     15.178000000000004
+    ]
+   ]
+  },
+  {
+   "nome": "ar",
+   "ini": 53.28000000000001,
+   "fim": 67.91600000000001,
+   "D": 14.636000000000003,
+   "cues": [
+    [
+     0.5,
+     6.829999999999998
+    ],
+    [
+     7.280000000000001,
+     13.936
+    ]
+   ]
+  },
+  {
+   "nome": "espalha",
+   "ini": 67.91600000000001,
+   "fim": 85.29600000000003,
+   "D": 17.380000000000024,
+   "cues": [
+    [
+     0.5,
+     5.444000000000003
+    ],
+    [
+     5.8940000000000055,
+     9.91000000000001
+    ],
+    [
+     10.360000000000014,
+     16.68000000000002
+    ]
+   ]
+  },
+  {
+   "nome": "olho",
+   "ini": 85.29600000000003,
+   "fim": 97.50600000000004,
+   "D": 12.210000000000008,
+   "cues": [
+    [
+     0.5,
+     8.516000000000005
+    ],
+    [
+     8.966000000000008,
+     11.510000000000005
+    ]
+   ]
+  },
+  {
+   "nome": "por_do_sol",
+   "ini": 97.50600000000004,
+   "fim": 119.91400000000004,
+   "D": 22.408,
+   "cues": [
+    [
+     0.5,
+     10.269999999999996
+    ],
+    [
+     10.719999999999999,
+     18.569999999999993
+    ],
+    [
+     19.019999999999996,
+     21.708
+    ]
+   ]
+  },
+  {
+   "nome": "experimento",
+   "ini": 119.91400000000004,
+   "fim": 143.03600000000003,
+   "D": 23.121999999999986,
+   "cues": [
+    [
+     0.5,
+     5.885999999999996
+    ],
+    [
+     6.3359999999999985,
+     11.26400000000001
+    ],
+    [
+     11.713999999999999,
+     22.421999999999997
+    ]
+   ]
+  },
+  {
+   "nome": "resumo",
+   "ini": 143.03600000000003,
+   "fim": 157.15200000000002,
+   "D": 14.115999999999985,
+   "cues": [
+    [
+     0.5,
+     3.76400000000001
+    ],
+    [
+     4.213999999999999,
+     8.918000000000006
+    ],
+    [
+     9.367999999999995,
+     13.415999999999997
+    ]
+   ]
+  },
+  {
+   "nome": "final",
+   "ini": 157.15200000000002,
+   "fim": 168.202,
+   "D": 11.049999999999983,
+   "cues": [
+    [
+     0.5,
+     7.150000000000006
+    ]
+   ]
+  }
+ ],
+ "falas": [
+  {
+   "n": 1,
+   "cena": "gancho",
+   "ini": 0.5,
+   "fim": 5.49,
+   "gravada": false,
+   "texto": "Você já olhou pro céu e se perguntou: por que ele é azul?"
+  },
+  {
+   "n": 2,
+   "cena": "abertura",
+   "ini": 8.29,
+   "fim": 14.41,
+   "gravada": false,
+   "texto": "Eu sou o Teco, e essa é a Lume. Bem-vindos à Fábrica de Porquês!"
+  },
+  {
+   "n": 3,
+   "cena": "abertura",
+   "ini": 14.86,
+   "fim": 18.96,
+   "gravada": false,
+   "texto": "Hoje a gente vai descobrir o segredo da cor do céu."
+  },
+  {
+   "n": 4,
+   "cena": "mito",
+   "ini": 20.16,
+   "fim": 24.0,
+   "gravada": false,
+   "texto": "Tem gente que diz que o céu é azul porque ele reflete o mar."
+  },
+  {
+   "n": 5,
+   "cena": "mito",
+   "ini": 24.45,
+   "fim": 31.65,
+   "gravada": false,
+   "texto": "Mas pensa comigo: no meio do deserto, bem longe do mar, o céu também é azul!"
+  },
+  {
+   "n": 6,
+   "cena": "mito",
+   "ini": 32.1,
+   "fim": 36.7,
+   "gravada": false,
+   "texto": "Então não pode ser isso. O segredo está na luz do Sol."
+  },
+  {
+   "n": 7,
+   "cena": "prisma",
+   "ini": 37.9,
+   "fim": 43.74,
+   "gravada": false,
+   "texto": "A luz do Sol parece branquinha. Mas ela é uma mistura de todas as cores!"
+  },
+  {
+   "n": 8,
+   "cena": "prisma",
+   "ini": 44.19,
+   "fim": 52.58,
+   "gravada": false,
+   "texto": "Quando ela passa por um prisma, ou pelas gotinhas de chuva, as cores se separam. É assim que nasce o arco-íris."
+  },
+  {
+   "n": 9,
+   "cena": "ar",
+   "ini": 53.78,
+   "fim": 60.11,
+   "gravada": false,
+   "texto": "Agora, olha o ar com a minha lupa. Parece vazio, né?"
+  },
+  {
+   "n": 10,
+   "cena": "ar",
+   "ini": 60.56,
+   "fim": 67.22,
+   "gravada": false,
+   "texto": "Mas ele está cheio de partículas minúsculas, pequenas demais pra gente enxergar."
+  },
+  {
+   "n": 11,
+   "cena": "espalha",
+   "ini": 68.42,
+   "fim": 73.36,
+   "gravada": false,
+   "texto": "Quando a luz do Sol chega no ar, cada cor se comporta de um jeito."
+  },
+  {
+   "n": 12,
+   "cena": "espalha",
+   "ini": 73.81,
+   "fim": 77.83,
+   "gravada": false,
+   "texto": "O vermelho e o laranja passam quase direto."
+  },
+  {
+   "n": 13,
+   "cena": "espalha",
+   "ini": 78.28,
+   "fim": 84.6,
+   "gravada": false,
+   "texto": "Já o azul esbarra nas partículas e se espalha pra todo lado, igual bolinha de pinball!"
+  },
+  {
+   "n": 14,
+   "cena": "olho",
+   "ini": 85.8,
+   "fim": 93.81,
+   "gravada": false,
+   "texto": "Como o azul se espalhou pelo céu inteiro, pra onde você olha chega um pouquinho de azul nos seus olhos."
+  },
+  {
+   "n": 15,
+   "cena": "olho",
+   "ini": 94.26,
+   "fim": 96.81,
+   "gravada": false,
+   "texto": "Por isso o céu todo parece azul!"
+  },
+  {
+   "n": 16,
+   "cena": "por_do_sol",
+   "ini": 98.01,
+   "fim": 107.78,
+   "gravada": false,
+   "texto": "E no fim da tarde? O Sol fica baixinho, e a luz precisa atravessar muito mais ar até chegar em você."
+  },
+  {
+   "n": 17,
+   "cena": "por_do_sol",
+   "ini": 108.23,
+   "fim": 116.08,
+   "gravada": false,
+   "texto": "No caminho, o azul vai se espalhando e ficando pra trás. Quem chega são o laranja e o vermelho."
+  },
+  {
+   "n": 18,
+   "cena": "por_do_sol",
+   "ini": 116.53,
+   "fim": 119.21,
+   "gravada": false,
+   "texto": "Por isso o pôr do sol é alaranjado!"
+  },
+  {
+   "n": 19,
+   "cena": "experimento",
+   "ini": 120.41,
+   "fim": 125.8,
+   "gravada": false,
+   "texto": "Quer ver isso em casa? Pegue um copo de vidro com água e pingue umas gotas de leite."
+  },
+  {
+   "n": 20,
+   "cena": "experimento",
+   "ini": 126.25,
+   "fim": 131.18,
+   "gravada": false,
+   "texto": "Com a ajuda de um adulto, ilumine o copo com uma lanterna."
+  },
+  {
+   "n": 21,
+   "cena": "experimento",
+   "ini": 131.63,
+   "fim": 142.34,
+   "gravada": false,
+   "texto": "Olhando de lado, a água fica azulada. E a luz que atravessa o copo sai alaranjada. É um céu dentro do copo!"
+  },
+  {
+   "n": 22,
+   "cena": "resumo",
+   "ini": 143.54,
+   "fim": 146.8,
+   "gravada": false,
+   "texto": "Resumindo: a luz do Sol tem todas as cores."
+  },
+  {
+   "n": 23,
+   "cena": "resumo",
+   "ini": 147.25,
+   "fim": 151.95,
+   "gravada": false,
+   "texto": "O azul é a cor que mais se espalha no ar, e por isso o céu é azul."
+  },
+  {
+   "n": 24,
+   "cena": "resumo",
+   "ini": 152.4,
+   "fim": 156.45,
+   "gravada": false,
+   "texto": "E no pôr do sol, o azul fica pelo caminho e sobra o laranja."
+  },
+  {
+   "n": 25,
+   "cena": "final",
+   "ini": 157.65,
+   "fim": 164.3,
+   "gravada": false,
+   "texto": "No próximo episódio: por que a Lua muda de forma? Até lá, continue perguntando porquê!"
+  }
+ ]
+}
