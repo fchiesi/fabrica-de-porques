@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+# modelo de voz (63 MB): baixe com motor/baixar_voz.sh
+motor/voz/*.onnx
+motor/voz/*.onnx.json
+motor/voz/MODEL_CARD
+# gerados (refazer com motor/voz.py e motor/render.py)
+*/falas/rascunho/
+*/saida/*.mp4
+*/saida/_*
+*/saida/quadro_*.png
